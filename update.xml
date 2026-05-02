@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <!-- لاحظ هنا جعلنا الرقم 1 في النهاية ليكون أكبر من النسخة الحالية 0 -->
     <version>25.5.2.1</version>
-    
-    <url>https://github.com/YOUR_USER/WinKing/releases/download/v25.5.2.1/WinKing_Update.zip</url>
-    <changelog>https://github.com/YOUR_USER/WinKing/releases/tag/v25.5.2.1</changelog>
+    <url>https://github.com/mohemmedalaeer-spec/WinKing/releases/latest/download/WinKing_Update.zip</url>
+    <changelog>https://github.com/mohemmedalaeer-spec/WinKing/releases</changelog>
     <mandatory>false</mandatory>
 </item>
